@@ -1,9 +1,0 @@
-name: dlml
-dependencies:
-  - python=3.9
-  - numpy
-  - matplotlib
-  - jupyterlab
-  - scikit-learn
-  - pandas
-  - seaborn
