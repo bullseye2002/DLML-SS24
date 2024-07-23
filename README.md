@@ -1,14 +1,15 @@
 # DLML-SS24
 
 Natural Language Processing
-DG
+
+
 Schauen Sie sich die Grundlagen auf dem Weg zu ChatGPT und Co. an. Möchte man
 neuronale Netze für Textverarbeitung nutzen, muss man Text als erstes in Zahlen
 umwandeln, mit denen das neuronale Netz arbeiten kann. Dann kann man das neuronale
 Netz „ganz normal“ für die gewünschte Anwendung trainieren.
 Schauen Sie sich folgende Themen an:
 themen_im_detail_DLML_24.docx 13/13
-27.03.24 /WK/
+27.03.24
 1. Vorverarbeiten von Text:
 a. Tokenization (teilt Text in Buchstaben/Wörter oder Tokens auf)
 b. Repräsentation von Buchstaben/Wörtern als Zahlen
